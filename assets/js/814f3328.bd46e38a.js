@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"On the Complexity Incentive Mismatch in Software Development","permalink":"/blog/complexity-incentive-mismatch"},{"title":"Best of TypeScript compiler options","permalink":"/blog/best-of-typescript-compiler-options"}]}')}}]);
