@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[899],{3417:(e,t,i)=>{i.r(t),i.d(t,{default:()=>n});var d=i(7294),a=i(329);function n(){return d.createElement(a.Z,{title:"Media kit",description:"Media kit"},d.createElement("div",{style:{width:"100%",padding:"72px 72px"}},d.createElement("h1",null,"Media kit")))}}}]);
